@@ -1,0 +1,29 @@
+code{
+    background: green;
+    color: yellow;
+    border-radius: 6px;
+    display:block;
+    font: 14px/24px;
+    padding:14px 24px;
+    text-align: auto;
+}
+    header,
+    section,
+    aside,
+    footer{
+        margin:0 1.5% 24px 1.5%;
+    }
+section{
+    float:left;
+    width: 63%;
+}
+aside{
+float:right;
+width:30%;
+}
+footer
+{
+clear:both;
+margin-bottom:0;
+}
+
